@@ -1,0 +1,8 @@
+Python 3.9
+
+Normalement, installer ces librairies est suffisant :
+
+- pip install opencv-python
+- pip install PyQt5
+- pip install torch==1.8.1+cu111 torchvision==0.9.1+cu111 torchaudio===0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
+- pip install PySide2
